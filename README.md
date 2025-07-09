@@ -21,16 +21,7 @@ This project demonstrates a real-time streaming pipeline that fetches live crypt
 ## Architecture Diagram
 
 ```
-┌────────────┐       ┌──────────────┐       ┌────────────┐       ┌───────────┐
-│            │       │              │       │            │       │           │
-│  Producer  │──────▶│ Kafka Broker │──────▶│ Consumer   │──────▶│ PostgreSQL│
-│  (Python)  │       │ + ZooKeeper  │       │ (Python)   │       │ Database  │
-└────────────┘       └──────────────┘       └────────────┘       └─────┬─────┘
-                                                                       │
-                                                                       ▼
-                                                                 ┌───────────┐
-                                                                 │  Grafana  │
-                                                                 └───────────┘
+![Project Architecture](images/architecture.png)
 ```
 
 ---
