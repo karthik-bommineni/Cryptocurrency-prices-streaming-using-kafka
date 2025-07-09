@@ -20,9 +20,9 @@ This project demonstrates a real-time streaming pipeline that fetches live crypt
 
 ## Architecture Diagram
 
-```
+
 <img src="images/architecture.png" alt="Project Architecture Diagram" width="600">
-```
+
 
 ---
 
