@@ -21,7 +21,7 @@ This project demonstrates a real-time streaming pipeline that fetches live crypt
 ## Architecture Diagram
 
 ```
-![Project Architecture](images/architecture.png)
+<img src="images/architecture.png" alt="Project Architecture Diagram" width="600">
 ```
 
 ---
