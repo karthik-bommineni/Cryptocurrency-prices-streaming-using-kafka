@@ -21,7 +21,9 @@ This project demonstrates a real-time streaming pipeline that fetches live crypt
 ## Architecture Diagram
 
 
-<img src="images/architecture.png" alt="Project Architecture Diagram" width="600">
+<p align="center">
+  <img src="images/architecture.png" alt="Project Architecture Diagram" width="600">
+</p>
 
 
 ---
@@ -132,6 +134,11 @@ FROM
 - Visualize last recorded prices of multiple currencies as percentages.
 
 ---
+
+<h2 style="text-align: center;">Grafana Dashboard</h2>
+<p align="center">
+  <img src="images/grafana_dashboard.png" alt="Grafana Dashboard Screenshot" width="600">
+</p>
 
 ## Docker Compose Overview
 
