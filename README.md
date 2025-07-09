@@ -137,7 +137,7 @@ FROM
 
 <h2 style="text-align: center;">Grafana Dashboard</h2>
 <p align="center">
-  <img src="images/grafana_dashboard.png" alt="Grafana Dashboard Screenshot" width="600">
+  <img src="images/grafana-dashboard.png" alt="Grafana Dashboard Screenshot" width="600">
 </p>
 
 ## Docker Compose Overview
